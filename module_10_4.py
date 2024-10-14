@@ -79,6 +79,6 @@ cafe.guest_arrival(*guests)
 # Обслуживание гостей
 cafe.discuss_guests()
 
-#for guest in guests:
-   #guest.join()
+for guest in guests:
+   guest.join()
 
