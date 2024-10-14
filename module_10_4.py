@@ -1,5 +1,5 @@
 #Задача "Потоки гостей в кафе"
-from threading import Thread, Lock
+from threading import Thread
 from random import randint
 from time import sleep
 import queue
